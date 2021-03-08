@@ -1,8 +1,5 @@
-GOOGLE_CHROME class = str link = "https://www.google.com/"
-print(GOOGLE_CHROME)
+"https://www.google.com/"
 
-
-algoritmo guardar
-    link google
-fin algoritmo
-
+#algoritmo guardar
+    #link google
+#fin algoritmo
